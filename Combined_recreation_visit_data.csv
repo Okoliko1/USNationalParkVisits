@@ -1,0 +1,43 @@
+Source,Target, Value 
+Total Visits,Alaska,"48,189,933"
+Total Visits,Intermountain,"1,117,964,867"
+Total Visits,Midwest,"462,819,570"
+Total Visits,Northeast,"243,951,367"
+Total Visits,Pacific West,"745,932,335"
+Total Visits,Southeast,"591,324,837"
+Total Visits,Alaska,48189933
+Alaska,AK,48189933
+Total Visits,Intermountain,1117964867
+Intermountain,AZ,250537777
+Intermountain,CO,189979692
+Intermountain,MT,93194615
+Intermountain,NM,48911138
+Intermountain,TX,22634657
+Intermountain,UT,261502430
+Intermountain,WY,251204558
+Total Visits,Midwest,462819570
+Midwest,AR,63435985
+Midwest,IN,83396931
+Midwest,MI,905644
+Midwest,MN,10003168
+Midwest,MO,108733886
+Midwest,ND,23946511
+Midwest,OH,98799880
+Midwest,SD,73597565
+Total Visits,Northeast,243951367
+Northeast,ME,134113188
+Northeast,VA,68391485
+Northeast,WV,41446694
+Total Visits,Pacific West,745932335
+Pacific West,AS,299130
+Pacific West,CA,400939500
+Pacific West,HI,117017732
+Pacific West,NV,3841960
+Pacific West,OR,21881349
+Pacific West,WA,201952664
+Total Visits,Southeast,591324837
+Southeast,FL,64637592
+Southeast,KY,58198398
+Southeast,SC,3883782
+Southeast,TN,439650449
+Southeast,VI,24954616
